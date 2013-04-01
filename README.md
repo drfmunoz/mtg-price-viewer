@@ -15,7 +15,7 @@ Setup
 =====
 
 * Set up as you would set up any [CackePHP instance](http://book.cakephp.org/2.0/en/installation.html)
-
+* Change the temporal directory permission `chmod 777 -R app/tmp`
 
 License
 =======

@@ -82,7 +82,7 @@
     <link rel="stylesheet" href="css/ie7.css"/><![endif]-->
 </head>
 <body>
-	<a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" alt="Fork me on GitHub"></a>
+	<a href="https://github.com/drfmunoz/mtg-price-viewer"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" alt="Fork me on GitHub"></a>
 <?php 
 echo $this->fetch('content');
 echo $this->element('footer');
