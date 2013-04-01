@@ -1,0 +1,1 @@
+<span title="<?php  echo $this->LangManager->get('mtg_exchange_notice'); ?> (1 USD = <?php echo $conversionRate; ?> EUR )" class="currencyExchange"><a href="#exchangeNotice">&dagger;</a></span>
